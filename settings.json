@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "polishMC.aternos.me:54264",
+    "ip": "polishMC.aternos.me",
     "port": 54264,
     "version": "",
     "try-creative": false
